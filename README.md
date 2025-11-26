@@ -1,5 +1,5 @@
 # financial-portfolio-optimization
-In Progress
+_In Progress_
 
 **Project Objective**
 To determine the optimal capital allocation for a $10M loan portfolio to maximize return while minimizing risk, followed by predictive modeling to assess individual loan applicant risk.
